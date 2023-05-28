@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "oauth2.client.registration.my-internal-client.tokenUri",
+  "type": "java.lang.String",
+  "description": "A description for 'oauth2.client.registration.my-internal-client.tokenUri'"
+}]}
